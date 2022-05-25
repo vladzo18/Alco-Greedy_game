@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaade8b0026e4fac8c0d7537e6a963f2, type: 3}
+  m_Name: BottleTypes
+  m_EditorClassIdentifier: 
+  _bottleTypes:
+  - bottleType: 0
+    _bottleName: "\u041F\u043B\u044F\u0448\u043A\u0430 \u0413\u043E\u0440\u0456\u043B\u043A\u0438"
+    _bottleIcon: {fileID: 21300000, guid: 90d3cb839e65c8f459d1e5ca0756bd30, type: 3}
+    _bottlePrice: 5
+    _bottleMass: 500
+  - bottleType: 1
+    _bottleName: "\u041F\u043B\u044F\u0448\u043A\u0430 \u041F\u0438\u0432\u0430"
+    _bottleIcon: {fileID: 21300000, guid: 53103ce59f804d74fb343a0633416fb4, type: 3}
+    _bottlePrice: 10
+    _bottleMass: 400
+  - bottleType: 2
+    _bottleName: "\u041F\u043B\u044F\u0448\u043A\u0430 \u0412\u0438\u043D\u0430"
+    _bottleIcon: {fileID: 21300000, guid: e87e81f2597f1c64d9d5321905360bbb, type: 3}
+    _bottlePrice: 15
+    _bottleMass: 20
+  - bottleType: 3
+    _bottleName: "\u0411\u0443\u0442\u0438\u043B\u043A\u0430 \u0412\u0456\u0441\u043A\u0456"
+    _bottleIcon: {fileID: 21300000, guid: d936314e11d08654a94c134b37271cdb, type: 3}
+    _bottlePrice: 20
+    _bottleMass: 20
+  - bottleType: 4
+    _bottleName: "\u041F\u043B\u044F\u0448\u043A\u0430 \u0411\u0456\u0445\u0435\u0440\u0456\u0432\u043A\u0438"
+    _bottleIcon: {fileID: 21300000, guid: 9d5cf94b9dce166429043b92a43f0091, type: 3}
+    _bottlePrice: 35
+    _bottleMass: 10
